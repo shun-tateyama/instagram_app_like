@@ -26,7 +26,7 @@ public/uploads/
 
 
 ！/images/.keep
-/images/*
+**/images/*
 !/channels/.keep
 !/concerns/.keep
 !/concerns/.keep
