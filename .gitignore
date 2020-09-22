@@ -23,3 +23,18 @@
 public/uploads/
 
 /.env
+
+
+！/images/.keep
+/images/*
+!/channels/.keep
+!/concerns/.keep
+!/concerns/.keep
+!/assets/.keep
+!/tasks/.keep
+/public/*
+!/spec/users_spec.rb
+!/controllers/.keep
+!/fixtures/.keep
+!/files/.keep
+**/.keep
